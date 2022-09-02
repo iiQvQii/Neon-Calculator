@@ -5,6 +5,3 @@
 
 ### Preview
 ![image](https://github.com/wdaweb/js_calculator-iiQvQii/blob/master/preview.png)
-
-
-# 泰山職訓前端班計算機作業
